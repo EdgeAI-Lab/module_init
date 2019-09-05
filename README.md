@@ -12,7 +12,9 @@
 ## 3.使用说明
 
 程序运行后，会统一调用各个模块的初始化函数，各个模块的初始化函数会通过USART1(波特率:115200)打印出“xxx init done!”
+
 如下图所示：
+
 ![module_init_result](https://github.com/FanHongchuang/module_init/raw/master/doc/result.png)
 
 ## 4.工程文件说明
