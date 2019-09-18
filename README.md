@@ -1,6 +1,6 @@
 # 类linux驱动模块框架module_init(init_fun)在STM32上的实现
 
-* [详细说明地址1](https://fanhongchuang.github.io/notebook/STM32/stm32_module_init_like.linux/)	
+* [详细说明地址1](https://fanhongchuang.github.io/notebook/Embedded%20System/STM32/stm32_module_init_like.linux/)	
 * [详细说明地址2](https://zhuanlan.zhihu.com/p/81309285)					
 
 ## 1.试验环境
